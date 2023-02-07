@@ -1,0 +1,11 @@
+.destination-container {
+  width: 50%;
+}
+.image {
+  width: 90%;
+}
+.name {
+  font-family: Open Sans;
+  font-size: 20px;
+  color: grey;
+}
